@@ -1,0 +1,7 @@
+4月 20, 2023 2:47:02 下午 Main main
+严重: 严重的错误
+java.io.IOException: 我就是错误
+	at Main.main(Main.java:42)
+
+4月 20, 2023 2:47:02 下午 Main main
+警告: 警告的内容
